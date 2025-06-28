@@ -1,4 +1,4 @@
-# Java with Database Demo
+# Java with Database
 
 This is a simple Java application that demonstrates database operations (insert, update, delete) using JDBC.
 
