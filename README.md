@@ -1,6 +1,6 @@
-# Spring Boot Database Demo
+# Java with Database
 
-This is a simple Spring Boot application that demonstrates database operations (insert, update, delete) using JDBC.
+This is a simple Java application that demonstrates database operations (insert, update, delete) using JDBC.
 
 ## Database Configuration
 
