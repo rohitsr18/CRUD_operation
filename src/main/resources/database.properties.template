@@ -1,0 +1,5 @@
+# Database Configuration
+# Copy this file to database.properties and update with your database credentials
+db.url=jdbc:postgresql://localhost:5432/your_database_name
+db.username=your_username
+db.password=your_password
